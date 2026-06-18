@@ -178,29 +178,11 @@
 
    <script>
         window.addEventListener('DOMContentLoaded', (event) => {
-            // Initialize your existing PagefindUI exactly as before
+            // Native initialization without regex overrides
             new PagefindUI({ 
                 element: "#search", 
                 showSubResults: false, 
                 showEmptyFilters: true, 
-                // FIX 1: Intercept terms typed into the visible search UI
-                processTerm: function (term) {
-                    if (!term.includes('"')) {
-                        return term;
-                    }
-                    const quoteRegex = /"([^"]+)"/g;
-                    let match;
-                    let exactPhrases = [];
-                    while ((match = quoteRegex.exec(term)) !== null) {
-                        exactPhrases.push(match[1].trim());
-                    }
-                    const cleanTerms = term.replace(quoteRegex, '').trim();
-                    if (exactPhrases.length > 0) {
-                        const formattedQuery = exactPhrases.map(phrase => `"${phrase}"`).join(' ');
-                        return cleanTerms ? `${formattedQuery} ${cleanTerms}` : formattedQuery;
-                    }
-                    return term;
-                },
                 processResult: function (result) {
                     if (result.meta) {
                         if (result.meta.pdf_url) { 
@@ -217,7 +199,7 @@
                 }
             });
 
-            // Attach a listener to show/hide the CSV button when the user types
+            // Show/hide CSV button
             setTimeout(() => {
                 const searchInput = document.querySelector('.pagefind-ui__search-input');
                 const downloadBtn = document.getElementById('downloadCsvBtn');
@@ -243,7 +225,7 @@
             }
         });
 
-        // The Headless Parallel Search Function for CSV Export
+        // Headless CSV Export (Regex stripped)
         async function exportSearchToCSV() {
             const searchInput = document.querySelector('.pagefind-ui__search-input');
             let query = searchInput ? searchInput.value.trim() : "";
@@ -258,24 +240,9 @@
             downloadBtn.style.color = "#003366";
 
             try {
-                // HARDCODED ABSOLUTE PATH FOR HEADLESS IMPORT
                 const pagefind = await import("/vird-document-index/pagefind/pagefind.js");
 
-                // FIX 2: Format the query for the CSV compiler so it matches the UI logic
-                if (query.includes('"')) {
-                    const quoteRegex = /"([^"]+)"/g;
-                    let match;
-                    let exactPhrases = [];
-                    while ((match = quoteRegex.exec(query)) !== null) {
-                        exactPhrases.push(match[1].trim());
-                    }
-                    const cleanTerms = query.replace(quoteRegex, '').trim();
-                    if (exactPhrases.length > 0) {
-                        const formattedQuery = exactPhrases.map(phrase => `"${phrase}"`).join(' ');
-                        query = cleanTerms ? `${formattedQuery} ${cleanTerms}` : formattedQuery;
-                    }
-                }
-
+                // Pass query directly to engine
                 const search = await pagefind.search(query);
                 
                 if (!search || search.results.length === 0) {
