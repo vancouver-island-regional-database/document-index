@@ -124,8 +124,8 @@
         }
     </style>
     
-    <link href="/vird-document-index/pagefind/pagefind-ui.css" rel="stylesheet">
-    <script src="/vird-document-index/pagefind/pagefind-ui.js"></script>
+    <link href="/document-index/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/document-index/pagefind/pagefind-ui.js"></script>
 </head>
 <body>
     
@@ -240,7 +240,7 @@
             downloadBtn.style.color = "#003366";
 
             try {
-                const pagefind = await import("/vird-document-index/pagefind/pagefind.js");
+                const pagefind = await import("/document-index/pagefind/pagefind.js");
 
                 // Pass query directly to engine
                 const search = await pagefind.search(query);
