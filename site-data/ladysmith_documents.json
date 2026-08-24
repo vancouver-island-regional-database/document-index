@@ -4873,12 +4873,13 @@
       "display_title": "Parks And Trails Brochure",
       "source": "ladysmith.ca",
       "region": "Mid-Island Region",
-      "html_file_path": null,
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/document-index-html-files/2024-01-11_parks-and-trails-brochure.html",
       "alternate_urls": [],
       "link_status_code": "200",
       "link_checked_date": "2026-08-23",
       "link_has_working_alt": true,
-      "link_working_alt_url": "https://www.ladysmith.ca/docs/brochures-other-publications/parks-and-trails-brochure.pdf"
+      "link_working_alt_url": "https://www.ladysmith.ca/docs/brochures-other-publications/parks-and-trails-brochure.pdf",
+      "indexed_date": "2026-06-22"
     },
     {
       "id": 278,
