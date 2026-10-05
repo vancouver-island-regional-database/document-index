@@ -1,5 +1,5 @@
 {
-  "total": 4260,
+  "total": 4261,
   "page": 1,
   "documents": [
     {
@@ -93721,6 +93721,28 @@
       "link_has_working_alt": false,
       "link_working_alt_url": null,
       "indexed_date": "2026-06-24"
+    },
+    {
+      "id": 51765,
+      "title": "2025 Ladysmith SOFI",
+      "display_title": "Statement of Financial Information, Year Ended December 31, 2025",
+      "jurisdiction": "Town of Ladysmith",
+      "date": "2025",
+      "url": "https://www.ladysmith.ca/docs/default-source/reports-2021/2025-ladysmith-sofi.pdf",
+      "snippet": "TOWN OF LADYSMITH STATEMENT OF FINANCIAL INFORMATION YEAR ENDED DECEMBER 31, 2025 TOWN OF LADYSMITH STATEMENT OF FINANCIAL INFORMATION YEAR ENDED DECEMBER 31, 2025 Financial Information Act Prepared under the Financial Information Regulation, Schedule 1 Statement of Financial Information Approval Please see 2025 Audited Financial Statements for: • Management Report • Statement of Assets and...",
+      "category": "",
+      "project_category": "",
+      "applicable_jurisdictions": "Cowichan Valley Regional District",
+      "document_type": "Public Information/Miscellaneous",
+      "source": "ladysmith.ca",
+      "region": "Mid-Island Region",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/ladysmith-ca/docs/default-source/reports-2021/2025-ladysmith-sofi.html",
+      "alternate_urls": [],
+      "link_status_code": "200",
+      "link_checked_date": null,
+      "link_has_working_alt": false,
+      "link_working_alt_url": null,
+      "indexed_date": "2026-09-28"
     }
   ]
 }
