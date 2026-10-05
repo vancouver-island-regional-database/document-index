@@ -10796,7 +10796,7 @@
       "document_type": "Public Information/Miscellaneous",
       "source": "ladysmith.ca",
       "region": "Mid-Island Region",
-      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/ladysmith-ca/documents/PTE Application Pkg.html",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/ladysmith-ca/documents/PTE%20Application%20Pkg.html",
       "alternate_urls": [],
       "link_status_code": "200",
       "link_checked_date": "2026-10-05",
@@ -13590,7 +13590,7 @@
       "document_type": "Public Information/Miscellaneous",
       "source": "ladysmith.ca",
       "region": "Mid-Island Region",
-      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/www.ladysmith.ca-80/documents/Professional Service.html",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/www.ladysmith.ca-80/documents/Professional%20Service.html",
       "alternate_urls": [],
       "link_status_code": "404",
       "link_checked_date": "2026-10-05",
@@ -40771,7 +40771,7 @@
     {
       "id": 7557,
       "title": "2017 03 10 Waterfront Charrette Brief Reduced",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "2017 03 10 Waterfront Charrette Brief Reduced",
       "jurisdiction": "Town of Ladysmith",
       "date": "2017-03-10",
       "url": "https://www.ladysmith.ca/docs/default-source/reports-2021/2017-03-10-waterfront-charrette-brief-reduced.pdf",
@@ -42113,7 +42113,7 @@
     {
       "id": 8095,
       "title": "Agenda Package - Council Meeting_Feb04_2025.pdf",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "Agenda Package - Council Meeting_Feb04_2025",
       "jurisdiction": "Town of Ladysmith",
       "date": "2025-02-04",
       "url": "https://pub-ladysmith.escribemeetings.com/FileStream.ashx?DocumentId=7037",
@@ -43191,7 +43191,7 @@
     {
       "id": 8555,
       "title": "Tol Hart Hnr",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "Tol Hart Hnr",
       "jurisdiction": "Town of Ladysmith",
       "date": "",
       "url": "https://www.ladysmith.ca/docs/default-source/bylaws-2021/tol_hart_hnr.pdf",
@@ -45413,7 +45413,7 @@
     {
       "id": 9589,
       "title": "Schedule B Waterfront Area Plan Consolidated",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "Schedule B Waterfront Area Plan Consolidated",
       "jurisdiction": "Town of Ladysmith",
       "date": "2012-12-17",
       "url": "https://www.ladysmith.ca/docs/default-source/bylaws-2021/schedule-b---waterfront-area-plan-consolidated.pdf",
@@ -48295,7 +48295,7 @@
     {
       "id": 11082,
       "title": "2025 06 18 Prcac Agenda",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "2025 06 18 Prcac Agenda",
       "jurisdiction": "Town of Ladysmith",
       "date": "2025-06-18",
       "url": "https://www.ladysmith.ca/docs/default-source/prc-ec-edc-lwmc-commission-documents/2025/2025-06-18-prcac-agenda.pdf",
@@ -49109,7 +49109,7 @@
     {
       "id": 11418,
       "title": "Priority Sidewalks Map",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "Priority Sidewalks Map",
       "jurisdiction": "Town of Ladysmith",
       "date": "",
       "url": "https://www.ladysmith.ca/docs/default-source/job-postings/jobs-rfps-tenders/priority-sidewalks-map.pdf",
@@ -58877,7 +58877,7 @@
     {
       "id": 16241,
       "title": "Tol Accessibility Plan 2026",
-      "display_title": "Extraction failed or timeout: Command '['pdftotext', '-', '-']' timed out after 45 seconds",
+      "display_title": "Tol Accessibility Plan 2026",
       "jurisdiction": "Town of Ladysmith",
       "date": "2026",
       "url": "https://www.ladysmith.ca/docs/default-source/accessibility-advisory-committee/accessibility-plan/tol-accessibility-plan-2026.pdf",
