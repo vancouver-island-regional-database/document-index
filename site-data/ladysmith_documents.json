@@ -1,5 +1,5 @@
 {
-  "total": 4261,
+  "total": 4265,
   "page": 1,
   "documents": [
     {
@@ -27789,6 +27789,28 @@
       "indexed_date": "2026-06-22"
     },
     {
+      "id": 1725,
+      "title": "2024 12 11 Special Meeting Notice",
+      "display_title": "Special Council Meeting Notice, December 11, 2024",
+      "jurisdiction": "Town of Ladysmith",
+      "date": "2024-12-11",
+      "url": "https://www.ladysmith.ca/docs/default-source/council-meetings/2024-council-meetings/2024-12-11_special-meeting-notice.pdf",
+      "snippet": "NOTICE SPECIAL COUNCIL MEETING Pursuant to “Council Procedure Bylaw 2009, No. 1666” notice is provided that Council will hold a Special Meeting on December 11, 2024. The meeting will include the following business: • Ladysmith Harbour Economic Development Corporation 2024 Update; and • Appointment of Election Officials for the 2025 By-Election. Please note: Although this meeting will be held...",
+      "category": "Town of Ladysmith: Land Use Planning, Town of Ladysmith: Infrastructure & Services",
+      "project_category": "City Hall Redevelopment",
+      "applicable_jurisdictions": "",
+      "document_type": "Public Notice/Communication",
+      "source": "ladysmith.ca",
+      "region": "Mid-Island Region",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/ladysmith-ca/docs/default-source/council-meetings/2024-council-meetings/2024-12-11_special-meeting-notice.html",
+      "alternate_urls": [],
+      "link_status_code": "200",
+      "link_checked_date": null,
+      "link_has_working_alt": false,
+      "link_working_alt_url": null,
+      "indexed_date": null
+    },
+    {
       "id": 1726,
       "title": "2013 05 21 Council Minutes",
       "display_title": "2013 05 21 Council Minutes",
@@ -29327,6 +29349,28 @@
       "link_has_working_alt": false,
       "link_working_alt_url": null,
       "indexed_date": "2026-06-24"
+    },
+    {
+      "id": 2063,
+      "title": "2023 11 07 Notice Of Disposition Dl2016",
+      "display_title": "Notice of Disposition, District Lot 2016 (November 7, 2023)",
+      "jurisdiction": "Town of Ladysmith",
+      "date": "2023-11-07",
+      "url": "https://www.ladysmith.ca/docs/default-source/news-documents/2023-11-07-notice-of-disposition_dl2016.pdf",
+      "snippet": "NOTICE ABANDONMENT OF LEASE DISTRICT LOT 2016, COWICHAN DISTRICT Notice is hereby given that the Town of Ladysmith intends to abandon Crown land lease 106431, file 1407751, over District Lot 2016 to the Province in accordance with section 45 of the Land Act. This abandonment will take place no later than December 31, 2023. The Town will not receive any compensation upon abandonment. Information...",
+      "category": "Town of Ladysmith: Infrastructure & Services",
+      "project_category": "",
+      "applicable_jurisdictions": "",
+      "document_type": "Public Notice/Communication",
+      "source": "ladysmith.ca",
+      "region": "Mid-Island Region",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/ladysmith-ca/docs/default-source/news-documents/2023-11-07-notice-of-disposition_dl2016.html",
+      "alternate_urls": [],
+      "link_status_code": "200",
+      "link_checked_date": null,
+      "link_has_working_alt": false,
+      "link_working_alt_url": null,
+      "indexed_date": null
     },
     {
       "id": 2072,
@@ -40657,6 +40701,28 @@
       "link_has_working_alt": false,
       "link_working_alt_url": null,
       "indexed_date": "2026-06-24"
+    },
+    {
+      "id": 7505,
+      "title": "2022 11 Notice Of Disposition Dl2016 (002)",
+      "display_title": "Notice of Disposition, District Lot 2016 (November 25, 2022)",
+      "jurisdiction": "Town of Ladysmith",
+      "date": "2022",
+      "url": "https://www.ladysmith.ca/docs/default-source/news-documents/2022-11-notice-of-disposition_dl2016-(002).pdf",
+      "snippet": "NOTICE TRANSFER OF LEASE DISTRICT LOT 2016, COWICHAN DISTRICT November 25, 2022 Notice is hereby given that the Town of Ladysmith intends to assign a crown land lease over District Lot 2016. A marina is currently located on the property. The Town intends to seek provincial approval to assign Lease 106431 to the Stz’uminus First Nation. Lease 106431 is a crown land lease held by the Town and...",
+      "category": "Town of Ladysmith: Infrastructure & Services",
+      "project_category": "",
+      "applicable_jurisdictions": "",
+      "document_type": "Public Notice/Communication",
+      "source": "ladysmith.ca",
+      "region": "Mid-Island Region",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/ladysmith-ca/docs/default-source/news-documents/2022-11-notice-of-disposition_dl2016-(002).html",
+      "alternate_urls": [],
+      "link_status_code": "200",
+      "link_checked_date": null,
+      "link_has_working_alt": false,
+      "link_working_alt_url": null,
+      "indexed_date": null
     },
     {
       "id": 7512,
@@ -93743,6 +93809,28 @@
       "link_has_working_alt": false,
       "link_working_alt_url": null,
       "indexed_date": "2026-09-28"
+    },
+    {
+      "id": 51767,
+      "title": "Town of Ladysmith FOI Response 0580-23-15",
+      "display_title": "Town of Ladysmith response to FOI request 0580-23-15 (November 3, 2023)",
+      "jurisdiction": "Town of Ladysmith",
+      "date": "2023-11-03",
+      "url": "https://vancouver-island-regional-database.github.io/submissions/LHED-FOI-July-2023_Redacted.pdf",
+      "snippet": "TOWN OF LADYSMITH Celebrate our Present. Embrace our Future. Honour our Past. November 3, 2023 eS fk | Dear Ci Gi: Re: Freedom of information and Protection of Privacy Act (the “Act”) Request for Access to Records Reference No. 0580-23-15 | am writing in response to your request dated September 25, 2023 for the records related to “detailed information about the Ladysmith Harbour Economic...",
+      "category": "Unassigned",
+      "project_category": "",
+      "applicable_jurisdictions": "Town of Ladysmith, Province of British Columbia",
+      "document_type": "",
+      "source": "",
+      "region": "",
+      "html_file_path": "https://vancouver-island-regional-database.github.io/document-index/pages/TOL/vancouver-island-regional-database.github.io/submissions/LHED-FOI-July-2023_Redacted.html",
+      "alternate_urls": [],
+      "link_status_code": "unchecked",
+      "link_checked_date": null,
+      "link_has_working_alt": false,
+      "link_working_alt_url": null,
+      "indexed_date": "2026-10-12"
     }
   ]
 }
